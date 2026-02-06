@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi, I'm Rafka
 
-<!--
-**Rafka-al/rafka-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student from Indonesia  
+📱 Application Developer  
+💻 Interested in Software & Technology
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Learning
+- Application Development
+- Programming Fundamentals
+- UI / UX Basics
+
+---
+
+### 🧩 Projects
+- 📱 Mobile Application Projects
+- 🛠️ Small Tools & Practice Apps
+
+---
+
+### 🌍 About Me
+- Location: Indonesia  
+- GitHub: @rafka-al  
+
+---
+
+⭐ Thanks for visiting my profile!
